@@ -1,4 +1,4 @@
-import React, { useState, useSyncExternalStore } from "react";
+import React, { useState } from "react";
 import "./App.css";
 import LogInModal from "./components/LogInModal";
 import MainThisWeek from "./components/MainThisWeek";
