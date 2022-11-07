@@ -1,0 +1,44 @@
+.MainThisWeekCard {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin-right: 20px;
+    min-width: 350px;
+  }
+  
+  .HeaderFont {
+    font-size: 36px;
+  }
+  
+  .UploadWorkCard {
+    border-radius: 10px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    margin-top: 20px;
+    width: 300px;
+    border: 2px solid black;
+  }
+  
+  .UploadFile {
+    margin-top: 60px;
+    border: 2px dashed grey;
+    padding-top: 40px;
+    padding-bottom: 120px;
+    padding-left: 150px;
+    padding-right: 150px;
+  }
+  
+  .LogInModal {
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    align-content: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 120px;
+    border: 2px solid black;
+    border-radius: 10px;
+  }
+  
