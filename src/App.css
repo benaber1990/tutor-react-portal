@@ -1,4 +1,5 @@
 .App {
+<<<<<<< HEAD
   text-align: center;
   display: flex;
   justify-content: center;
@@ -10,3 +11,17 @@
   justify-content: center;
   display: flex;
 }
+=======
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: "row";
+    margin-top: 20px;
+  }
+  
+  .UploadFileStyle {
+    justify-content: center;
+    display: flex;
+  }
+  
+>>>>>>> 89c29a74666e5cc75f7b019321781a98059439fb
