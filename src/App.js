@@ -3,7 +3,6 @@ import "./App.css";
 import LogInModal from "./components/LogInModal";
 import MainThisWeek from "./components/MainThisWeek";
 import UploadFile from "./components/UploadFile";
-import UploadYourWork from "./components/UploadYourWork";
 
 function App() {
   const [logIn, setLogIn] = useState(true);
